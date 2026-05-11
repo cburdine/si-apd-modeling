@@ -1,0 +1,5 @@
+jupyter/negf_workdir/*
+!jupyter/negf_workdir/negf_transmission/.gitkeep
+!jupyter/negf_workdir/negf_bands/.gitkeep
+
+
